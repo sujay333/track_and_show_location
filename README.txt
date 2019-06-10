@@ -1,0 +1,2 @@
+# track_and_show_location
+In this project we use Gps module Neo-6m to get the location of the user and send it to the phone as a SMS which shows the exact location plotted through Google maps.This project can be used in BRTS bus systems to check the correct location of the bus.The GSM module SIM900a and GPS module NEO-6m is used along with Arduino uno. Before using GSM pls check indivisual "AT commands" and GPS should show a continuous blink at led only then use this code.
